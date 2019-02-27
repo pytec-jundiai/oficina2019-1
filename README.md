@@ -1,11 +1,6 @@
-# Oficina Python 2019-1
+# Material
 
-> Será colocado nesta branch(aulas) os arquivos necessários para a aula da semana.
-_____________________________________
-### Instrutores:  
-* [Giovanni Manganotti](https://github.com/Giovanni001)
-* [Lucas Pagliari](https://github.com/LucasPagliari)
-* [Lucas Oliveira](https://github.com/LucasOliveira48)
+Será colocado nesta branch(aulas) os arquivos necessários para a aula da semana.
 _____________________________________
 ### Ferramentas Utilizadas:
 - [Python 3.7](https://www.python.org/downloads/)
