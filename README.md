@@ -1,6 +1,6 @@
 # Oficina Python 2019-1
 
-> Repositório para o armazenamento do conteúdo programático da oficina de python e seu conteúdo de apoio (projetos, exercícios e complementos).
+> Será colocado nesta branch(aulas) os arquivos necessários para a aula da semana.
 _____________________________________
 ### Instrutores:  
 * [Giovanni Manganotti](https://github.com/Giovanni001)
@@ -12,16 +12,6 @@ _____________________________________
 - [Pycharm Community](https://www.jetbrains.com/pycharm/download/#section=windows)
 - [VScode](https://code.visualstudio.com/) / [Sublime Text 3](https://www.sublimetext.com/3)
 _____________________________________
-### Conteúdo Programático:
-- Condicionais
-- Laços de Repetições
-- Manipulação de Strings
-- Listas, Tuplas e Dicionários
-- List Comprehension e Geradores
-- Funções, Métodos e Classes
-- Módulos
-- Tkinter GUI
-
 #### Links
 - [Linguagem Python](https://pt.wikipedia.org/wiki/Python)
 - [PEP 8](https://pep8.org/)
