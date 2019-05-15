@@ -35,7 +35,7 @@ btn1.place(x=105, y=180)
 btn2 = Button(janela, width=20, height=2, text='Voltar', bg='green', font=('arial', 10, 'bold'), command=Voltar)
 btn2.place(x=105, y=250)
 
-lb2 = Label(janela, width=30, text='Seu nome aqui !', font=('arial', 20, 'bold'))
+lb2 = Label(janela, width=30, text='Seu nome aqui !', font=('arial', 20 , 'bold'))
 lb2.place(x=-65, y=330)
 
 #aqui estamos definindo o tamanho da janela que será criada atravez do método geometry

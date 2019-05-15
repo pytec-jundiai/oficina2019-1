@@ -17,7 +17,7 @@ def Yellow():
 
 '''
 Criamos 4 botões e a cada um atribuimos a função através do parâmetro 'command' para quando os mesmos forem clicados
-eles realizarem as ações que foram programados (mudar a cor de fundo da janela)
+eles realizarem as ações que foram programados  (mudar a cor de fundo da janela)
 '''
 
 btn1 = Button(janela, width=3,height=1,bg='red', font=('arial', 10, 'bold'), command=Red)
