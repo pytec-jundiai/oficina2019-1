@@ -32,11 +32,11 @@ def divisao():
 janela = Tk()
 
 #Criando uma caixa de etxto atravez do widget Entry
-n1 = Entry(janela,font=('arial',12,'bold'))
+n1 = Entry(janela)
 n1.place(x=350,y= 50)
 
 #Criando uma caixa de etxto atravez do widget Entry
-n2 = Entry(janela,font=('arial',12,'bold'))
+n2 = Entry(janela)
 n2.place(x=350,y=90)
 
 #Criando um botão e atribuindo ele a variavel 'btn_soma'
@@ -72,13 +72,6 @@ janela.geometry('500x500+150+150')
 
 #Mantem a janela sendo exibida
 janela.mainloop()
-
-
-
-
-
-
-
 
 
 
